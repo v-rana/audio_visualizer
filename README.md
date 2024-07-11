@@ -38,3 +38,5 @@ This project demonstrates real-time audio recording, processing, and visualizati
 
    ```bash
    pip install -r requirements.txt
+
+## Demo

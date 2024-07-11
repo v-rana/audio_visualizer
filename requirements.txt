@@ -4,3 +4,4 @@ pandas
 sounddevice
 pyaudio
 scienceplots
+streamlit
